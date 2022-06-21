@@ -1,6 +1,6 @@
 # customer_can_do
 
-A new Flutter project.
+Can Do Today Customer App is Flutter Based Service Providing Android IOS App.
 
 ## Getting Started
 
